@@ -1,0 +1,7 @@
+/build/
+/tex/
+/gallery/
+*.o
+*.jpg
+*.png
+!docs/**/*.png
