@@ -8,6 +8,14 @@ drop onto GitHub Pages.
 Sibling tool to [cod2-xmodel-gallery](../cod2-xmodel-gallery) (3D models). This one
 is textures only, needs **no GPU** — pure CPU decode → downscale → JPEG.
 
+## Gallery
+
+Live, searchable, filtered by map type and theme:
+**[GitHub Pages](https://nawaftahir.github.io/cod2-iwi-gallery/)** ·
+**[GitLab Pages](https://nawaftahir.gitlab.io/cod2-iwi-gallery/)**
+
+Models live in the sibling [cod2-xmodel-gallery](https://nawaftahir.github.io/cod2-xmodel-gallery/).
+
 ## What it does
 
 - **Reads `.iwd` archives directly** (plain zip) or a loose extracted asset tree.
