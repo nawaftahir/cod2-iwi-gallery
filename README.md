@@ -12,7 +12,7 @@ is textures only, needs **no GPU** — pure CPU decode → downscale → JPEG.
 
 Live, searchable, filtered by map type and theme:
 **[GitHub Pages](https://nawaftahir.github.io/cod2-iwi-gallery/)** ·
-**[GitLab Pages](https://nawaftahir.gitlab.io/cod2-iwi-gallery/)**
+**[GitLab Pages](https://cod2-iwi-gallery-c27aaf.gitlab.io/)**
 
 Models live in the sibling [cod2-xmodel-gallery](https://nawaftahir.github.io/cod2-xmodel-gallery/).
 
